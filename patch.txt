@@ -1,0 +1,7 @@
+ <div class="hero">
+
+    <video autoplay loop muted plays-inline>
+      <source src="assets/img/backvid.mp4" type="video/mp4">
+    </video>
+
+  </div>
